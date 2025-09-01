@@ -10,6 +10,6 @@ Open access repository providing immediate dissemination of research on Yixing t
 - Site pages in markdown format
 
 ## Contact
-editor@yixingstudies.org
+admin@yixingstudies.org
 
 Published by TEA ACROSS BORDERS LLC

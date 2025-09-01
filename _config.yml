@@ -14,8 +14,7 @@ markdown: kramdown
 theme: minima
 
 # Contact
-email: papers@yixingstudies.org
-editor_email: editor@yixingstudies.org
+admin_email: admin@yixingstudies.org
 
 # Footer
 footer_text: "© 2025 TEA ACROSS BORDERS LLC. All papers remain property of their authors."

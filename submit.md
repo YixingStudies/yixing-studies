@@ -7,7 +7,7 @@ permalink: /submit/
 # Submission Guidelines
 
 ## Quick Submit
-Email your paper to: **editor@yixingstudies.org**
+Email your paper to: **admin@yixingstudies.org**
 
 ## What We Accept
 ✅ Original research  

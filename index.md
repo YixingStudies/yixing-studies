@@ -23,7 +23,7 @@ We welcome submissions on all aspects of Yixing teapots:
 - Contemporary practice
 - Authentication methodologies
 
-📧 Submit to: editor@yixingstudies.org
+📧 Submit to: admin@yixingstudies.org
 
 ---
 

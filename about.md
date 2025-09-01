@@ -29,7 +29,7 @@ Published by **TEA ACROSS BORDERS LLC**, an independent research organization de
 ## Editorial Team
 **Editor**: Jisoo Yi  
 TEA ACROSS BORDERS LLC 
-editor@yixingstudies.org
+admin@yixingstudies.org
 
 ## Founded
 September 2025, in preparation for October 2025 Yixing fieldwork.
