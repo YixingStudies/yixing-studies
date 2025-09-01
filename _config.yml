@@ -1,8 +1,8 @@
 # Site settings
 title: Yixing Studies Working Papers
 description: Open access repository for Yixing teapot research
-url: "https://yixingstudies.github.io"
-baseurl: "/yixing-studies"
+url: "https://yixingstudies.org"
+baseurl: ""
 
 # Organization Info
 organization: "TEA ACROSS BORDERS LLC"
